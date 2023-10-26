@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Name - NFC Card</title>
+</head>
+<body>
+    <div id="profile">
+        <img src="your-profile-picture.jpg" alt="Your Name">
+        <h1>Your Name</h1>
+    </div>
+    <div id="social-links">
+        <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a>
+        <a href="https://facebook.com/yourhandle" target="_blank">Facebook</a>
+        <a href="https://instagram.com/yourhandle" target="_blank">Instagram</a>
+        <!-- Add more social media links as needed -->
+    </div>
+</body>
+</html>
